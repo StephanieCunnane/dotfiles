@@ -17,3 +17,5 @@ filetype plugin indent on    " required
 set shiftwidth=2
 set number
 set relativenumber
+
+colorscheme torte
