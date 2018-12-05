@@ -1,4 +1,5 @@
 set nocompatible              " be iMproved, 4Grequired
+syntax enable
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
