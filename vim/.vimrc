@@ -19,5 +19,6 @@ set shiftwidth=2
 set number
 set relativenumber
 set hlsearch
+set incsearch
 
 colorscheme torte
