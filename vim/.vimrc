@@ -20,5 +20,7 @@ set number
 set relativenumber
 set hlsearch
 set incsearch
+set ignorecase
+set smartcase
 
 colorscheme torte
