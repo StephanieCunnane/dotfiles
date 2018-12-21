@@ -1,4 +1,4 @@
-set nocompatible              " be iMproved, 4Grequired
+set nocompatible              " be iMproved, required
 syntax enable
 filetype off                  " required
 
