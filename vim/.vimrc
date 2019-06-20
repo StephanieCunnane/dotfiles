@@ -25,5 +25,6 @@ set incsearch
 set ignorecase
 set smartcase
 set textwidth=80
+set splitright
 
 colorscheme torte
