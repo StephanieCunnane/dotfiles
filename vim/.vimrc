@@ -26,5 +26,7 @@ set ignorecase
 set smartcase
 set textwidth=80
 set splitright
+imap <C-t> <></><Esc>5hdiwp3lpT>i
+
 
 colorscheme torte
